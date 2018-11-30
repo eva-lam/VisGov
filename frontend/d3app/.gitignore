@@ -104,3 +104,5 @@ venv.bak/
 .mypy_cache/
 # dependencies
 /node_modules
+
+.package.json
